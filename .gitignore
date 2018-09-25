@@ -1,0 +1,4 @@
+notes
+notizen
+my_project/*
+!my_project/.gitkeep
