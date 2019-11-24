@@ -20,3 +20,6 @@ docker run --rm \
 
 ~~~
 
+The file with-latex.svg will generate
+
+![this result:](./with-latex.pdf)
