@@ -16,7 +16,7 @@ docker run --rm \
   -v $(pwd):/home/inkscape/workspace \
   -v /tmp/.X11-unix:/tmp/.X11-unix \
   -v $HOME/.fonts:/home/inkscape/.fonts \
-  ludwigprager/inkscape:1
+  ludwigprager/inkscape-latex
 
 ~~~
 
